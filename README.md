@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=34&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Developer;Full+Stack+Developer" />
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baseetnaseri6)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basitnaseri8@gmail.com)
+
 # Hi, I'm Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
