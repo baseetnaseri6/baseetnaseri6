@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/baseetnaseri6/baseetnaseri6/main/banner.jpeg" alt="Mohammad Baseet Naseri Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=34&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Developer;Full+Stack+Developer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baseetnaseri6">
@@ -17,9 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=34&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Developer;Full+Stack+Developer" />
-</p>
 
 # Hi, I'm Mohammad Baseet Naseri 👋
 
