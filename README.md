@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/baseetnaseri6/baseetnaseri6/main/banner.jpeg" alt="Mohammad Baseet Naseri Banner" width="100%" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baseetnaseri6&layout=compact&theme=tokyonight)
 
 # Hi, I'm Mohammad Baseet Naseri 👋
 
