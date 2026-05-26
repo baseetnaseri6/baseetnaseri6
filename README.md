@@ -4,6 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baseetnaseri6&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baseetnaseri6&layout=compact&theme=tokyonight)
+
 # Hi, I'm Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
