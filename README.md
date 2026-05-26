@@ -78,9 +78,6 @@ Currently focused on Full Stack Development, Backend Engineering, Databases, Clo
 `NumPy` `Pandas` `Scikit-learn`
 `TensorFlow` `PyTorch`
 `NLP` `Data Analysis`
-`MySQL` `PostgreSQL` `SQLite`
-`Docker` `Cloud Technologies`
-`Git` `GitHub`
 
 ---
 
