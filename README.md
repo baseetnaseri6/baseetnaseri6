@@ -118,6 +118,10 @@ AI-powered business intelligence dashboard using FastAPI, Python, JavaScript and
     <img src="https://img.shields.io/badge/Website-00C2D1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
+  <a href="mailto:basitnaseri8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+
   <a href="https://github.com/baseetnaseri6">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
