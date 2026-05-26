@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
-Passionate about backend systems, modern web applications, databases, and intelligent technologies
+Passionate about backend systems, modern web applications, databases and intelligent technologies
 
 ---
 
@@ -9,9 +9,9 @@ Passionate about backend systems, modern web applications, databases, and intell
 
 I hold a Master’s degree in Data Science, AI & Digital Business with a background in Computer Science.
 
-I enjoy building scalable backend systems, modern web applications, database-driven platforms, and AI-powered solutions using modern technologies and development tools.
+I enjoy building scalable backend systems, modern web applications, database-driven platforms and AI-powered solutions using modern technologies and development tools.
 
-Currently focused on Full Stack Development, Backend Engineering, Databases, Cloud Technologies, and AI applications.
+Currently focused on Full Stack Development, Backend Engineering, Databases, Cloud Technologies and AI applications.
 
 ---
 
@@ -73,7 +73,7 @@ Modern AI PDF Study Assistant with:
 
 ### AI Business Analyzer
 
-AI-powered business intelligence dashboard using FastAPI, Python, JavaScript, and modern AI technologies.
+AI-powered business intelligence dashboard using FastAPI, Python, JavaScript and modern AI technologies.
 
 ---
 
