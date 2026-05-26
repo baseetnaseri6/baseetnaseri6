@@ -107,13 +107,19 @@ AI-powered business intelligence dashboard using FastAPI, Python, JavaScript and
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn
-https://www.linkedin.com/in/baseetnaseri6
+<p align="center">
+  <a href="https://www.linkedin.com/in/baseetnaseri6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-🌍 Website
-https://naseriai.com
+  <a href="https://naseriai.com">
+    <img src="https://img.shields.io/badge/Website-00C2D1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-💻 GitHub
-https://github.com/baseetnaseri6
+  <a href="https://github.com/baseetnaseri6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
