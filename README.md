@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;AI+Developer;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=850&lines=Backend+Engineer;AI+Developer;Full+Stack+Developer" />
 </p>
 
 # Hi, I'm Mohammad Baseet Naseri 👋
