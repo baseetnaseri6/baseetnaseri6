@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/baseetnaseri6/baseetnaseri6/main/banner.jpeg" alt="Mohammad Baseet Naseri Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/baseetnaseri6/baseetnaseri6/main/banner.jpeg" width="100%" />
-</p>
-
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=baseetnaseri6&show_icons=true&theme=tokyonight)](https://github.com/baseetnaseri6)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baseetnaseri6&layout=compact&theme=tokyonight)](https://github.com/baseetnaseri6)
