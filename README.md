@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baseetnaseri6/baseetnaseri6/main/banner.jpeg" alt="Mohammad Baseet Naseri Banner" width="100%" />
+</p>
+
+
 # Hi, I'm Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
