@@ -73,9 +73,14 @@ Currently focused on Full Stack Development, Backend Engineering, Databases, Clo
 
 ### AI & Modern Technologies
 
-* Ollama AI
-* AI / LLM Concepts
-* Automation Systems
+`Ollama AI` `LLMs` `Machine Learning` `Deep Learning`
+`FastAPI` `REST APIs` `Automation Systems`
+`NumPy` `Pandas` `Scikit-learn`
+`TensorFlow` `PyTorch`
+`NLP` `Data Analysis`
+`MySQL` `PostgreSQL` `SQLite`
+`Docker` `Cloud Technologies`
+`Git` `GitHub`
 
 ---
 
