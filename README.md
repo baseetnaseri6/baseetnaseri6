@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://naseriai.com">
-    <img src="https://img.shields.io/badge/Website-00C2D1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00C2D1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
