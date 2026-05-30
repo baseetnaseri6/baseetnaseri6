@@ -21,7 +21,7 @@
 </p>
 
 
-## Hi, I'm Mohammad Baseet Naseri <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+## Hello, I'm Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
 Passionate about backend systems, modern web applications, databases and intelligent technologies
