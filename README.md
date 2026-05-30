@@ -21,7 +21,7 @@
 </p>
 
 
-# Hi, I'm Mohammad Baseet Naseri 👋
+# Hi, I am Mohammad Baseet Naseri 👋
 
 Full Stack Developer & AI Enthusiast
 Passionate about backend systems, modern web applications, databases and intelligent technologies
@@ -112,7 +112,7 @@ AI-powered business intelligence dashboard using FastAPI, Python, JavaScript and
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baseetnaseri6">
