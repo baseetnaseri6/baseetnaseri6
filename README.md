@@ -31,8 +31,13 @@ Currently focused on Full Stack Development, Backend Engineering, Databases, Clo
 ### Frontend Development
 
 * HTML
-* CSS
-* JavaScript
+* CSS/SCSS/Sass
+* TypeScript
+* React.js
+* Next.js
+* Tailwind CSS
+* MUI
+* Redux Toolkit
 
 ### Databases
 
